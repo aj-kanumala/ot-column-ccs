@@ -5,7 +5,7 @@ Repository to store code for Optimal Transport(OT) based Column-CCS sampling tec
 The aim of this project is to integrates Cross-Concentrated Sampling (CCS) for sparse computation of Wasserstein distance matrices and Iterative CUR Completion (ICURC) for low-rank matrix reconstruction. 
 
 Objectives include developing a Python pipeline to 
-- process point clouds from images (like MNIST),
+- process point clouds from images (like ImageNet, MNIST),
 - handling resolution variations,
 - image to point-cloud conversion,
 - develop an algorithm that integrates CCS and Wasserstein distance calculation,
