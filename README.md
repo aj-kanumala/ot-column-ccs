@@ -1,6 +1,6 @@
 # ot-column-ccs-sampling
 
-Repository to store code for OT based Column-CCS sampling technique.
+Repository to store code for Optimal Transport(OT) based Column-CCS sampling technique.
 
 The aim of this project is to integrates Cross-Concentrated Sampling (CCS) for sparse computation of Wasserstein distance matrices and Iterative CUR Completion (ICURC) for low-rank matrix reconstruction. 
 
